@@ -1,0 +1,36 @@
+/*!
+ * Mastertech - Portfolio Item
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+    background-color#ccced1;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+        background-color#ccced1;
+    }
+}
+
+
+/* Inicio do meu CSS */
+
+body {
+    
+    background-color:white;
+
+   
+}
+
+ul{
+    color: white;
+}
+
+/* Fim do meu CSS */
